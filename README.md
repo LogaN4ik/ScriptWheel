@@ -1,2 +1,2 @@
 # ScriptWheel
-Script Whell with fast access
+Script Wheell with fast access
